@@ -19,7 +19,7 @@ Assessment
    Functions/toctree.rst
    Tuples/toctree.rst
    MoreAboutIteration/toctree.rst
-   AdvancedFunctions/toctree.rst
+   AdvancedFunctionsAssessment/toctree.rst
    Sorting/toctree.rst
    NestedData/toctree.rst
    TestCases/toctree.rst
@@ -27,4 +27,4 @@ Assessment
    Classes/toctree.rst
    BuildingPrograms/toctree.rst
    Inheritance/toctree.rst
-   AdvancedAccumulation/toctree.rst
+   AdvancedAccumulationAssessment/toctree.rst
