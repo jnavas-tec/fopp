@@ -2,7 +2,6 @@ Assessment
 ==========
 
 .. toctree::
-   :hidden:
    :caption: Assessment
    :maxdepth: 4
 

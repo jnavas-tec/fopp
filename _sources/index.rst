@@ -195,6 +195,7 @@ Table of Contents
    
 .. toctree::
     :hidden:
+    :maxdepth: 4
 
     Assessment/toctree.rst
    
