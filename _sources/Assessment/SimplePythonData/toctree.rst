@@ -1,8 +1,8 @@
-Variables, Statements, and Expressions
-::::::::::::::::::::::::::::::::::::::
+Variables, Statements, and Expressions Assessment
+:::::::::::::::::::::::::::::::::::::::::::::::::
 
 .. toctree::
-   :caption: Variables, Statements, and Expressions
+   :caption: Variables, Statements, and Expressions Assessment
    :maxdepth: 2
 
    Exercises.rst

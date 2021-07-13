@@ -1,8 +1,8 @@
-Sequences
-:::::::::
+Sequences Assessment
+::::::::::::::::::::
 
 .. toctree::
-   :caption: Sequences
+   :caption: Sequences Assessment
    :maxdepth: 2
 
    Exercises.rst

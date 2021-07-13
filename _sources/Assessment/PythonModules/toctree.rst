@@ -1,8 +1,8 @@
-Python Modules
-::::::::::::::
+Python Modules Assessment
+:::::::::::::::::::::::::
 
 .. toctree::
-   :caption: Python Modules
+   :caption: Python Modules Assessment
    :maxdepth: 2
 
    Exercises.rst

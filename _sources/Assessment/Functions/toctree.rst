@@ -1,8 +1,8 @@
-Functions
-:::::::::
+Functions Assessment
+::::::::::::::::::::
 
 .. toctree::
-   :caption: Functions
+   :caption: Functions Assessment
    :maxdepth: 2
 
    Exercises.rst

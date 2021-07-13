@@ -1,8 +1,8 @@
-Python Turtle
-:::::::::::::
+Python Turtle Assessment
+::::::::::::::::::::::::
 
 .. toctree::
-   :caption: Python Turtle
+   :caption: Python Turtle Assessment
    :maxdepth: 3
 
    Exercises.rst

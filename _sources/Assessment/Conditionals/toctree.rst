@@ -1,8 +1,8 @@
-Conditionals
-::::::::::::::::::::
+Conditionals Assessment
+:::::::::::::::::::::::
 
 .. toctree::
-   :caption: Conditionals
+   :caption: Conditionals Assessment
    :maxdepth: 2
 
    Exercises.rst

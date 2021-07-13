@@ -1,8 +1,8 @@
-Exceptions
-::::::::::
+Exceptions Assessment
+:::::::::::::::::::::
 
 .. toctree::
-   :caption: Exceptions
+   :caption: Exceptions Assessment
    :maxdepth: 1
 
    Exercises.rst

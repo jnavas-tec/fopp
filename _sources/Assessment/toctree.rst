@@ -3,6 +3,7 @@ Assessment
 
 .. toctree::
    :hidden:
+   :caption: Assessment
    :maxdepth: 4
 
    GeneralIntro/toctree.rst

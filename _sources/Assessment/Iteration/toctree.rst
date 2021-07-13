@@ -1,8 +1,8 @@
-Iteration
-:::::::::
+Iteration Assessment
+::::::::::::::::::::
 
 .. toctree::
-   :caption: Iteration
+   :caption: Iteration Assessment
    :maxdepth: 2
 
    Exercises.rst

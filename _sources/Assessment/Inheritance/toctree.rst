@@ -1,8 +1,8 @@
-Inheritance
-:::::::::::
+Inheritance Assessment
+::::::::::::::::::::::
 
 .. toctree::
-   :caption: Inheritance
+   :caption: Inheritance Assessment
    :maxdepth: 2
 
    Exercises.rst

@@ -1,8 +1,8 @@
-Dictionaries
-::::::::::::
+Dictionaries Assessment
+:::::::::::::::::::::::
 
 .. toctree::
-   :caption: Dictionaries
+   :caption: Dictionaries Assessment
    :maxdepth: 2
 
    Exercises.rst

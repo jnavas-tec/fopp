@@ -1,8 +1,8 @@
-Transforming Sequences
-::::::::::::::::::::::
+Transforming Sequences Assessment
+:::::::::::::::::::::::::::::::::
 
 .. toctree::
-   :caption: Transforming Sequences
+   :caption: Transforming Sequences Assessment
    :maxdepth: 2
 
    Exercises.rst

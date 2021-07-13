@@ -1,8 +1,8 @@
-Advanced Functions
-::::::::::::::::::
+Advanced Functions Assessment
+:::::::::::::::::::::::::::::
 
 .. toctree::
-   :caption: Advanced Functions
+   :caption: Advanced Functions Assessment
    :maxdepth: 2
 
    Exercises.rst

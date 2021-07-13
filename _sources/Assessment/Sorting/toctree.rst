@@ -1,8 +1,8 @@
-Sorting
-:::::::
+Sorting Assessment
+::::::::::::::::::
 
 .. toctree::
-   :caption: Sorting
+   :caption: Sorting Assessment
    :maxdepth: 2
 
    Exercises.rst

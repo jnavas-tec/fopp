@@ -1,8 +1,8 @@
-Test Cases
-::::::::::
+Test Cases Assessment
+:::::::::::::::::::::
 
 .. toctree::
-   :caption: Test Cases
+   :caption: Test Cases Assessment
    :maxdepth: 3
 
    Exercises.rst

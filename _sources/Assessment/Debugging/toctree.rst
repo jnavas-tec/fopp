@@ -1,7 +1,8 @@
-Debugging
-:::::::::
+Debugging Assessment
+::::::::::::::::::::
+
 .. toctree::
-   :caption: Debugging
+   :caption: Debugging Assessment
    :maxdepth: 2
 
    Exercises.rst

@@ -1,8 +1,8 @@
-Building Programs
-:::::::::::::::::
+Building Programs Assessment
+::::::::::::::::::::::::::::
 
 .. toctree::
-   :caption: Building Programs
+   :caption: Building Programs Assessment
    :maxdepth: 2
 
    Exercises.rst
