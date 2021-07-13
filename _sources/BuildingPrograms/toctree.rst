@@ -9,4 +9,3 @@ Building Programs
    WPSketchanOutline.rst
    WPCodeSectionataTime.rst
    WPCleanCode.rst
-   Exercises.rst

@@ -11,6 +11,4 @@ Tuple Packing and Unpacking
    TuplesasReturnValues.rst
    UnpackingArgumentsToFunctions.rst
    Glossary.rst
-   Exercises.rst
-   ChapterAssessment.rst
    

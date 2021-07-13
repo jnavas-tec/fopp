@@ -13,6 +13,4 @@ Test Cases
    TestingOptionalParameters.rst
    WPProgramDevelopment.rst
    Glossary.rst
-   ChapterAssessment.rst
-   Exercises.rst
    

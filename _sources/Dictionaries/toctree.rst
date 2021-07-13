@@ -15,5 +15,3 @@ Dictionaries
    AccumulatingtheBestKey.rst
    WPChoosingDictionaries.rst
    Glossary.rst
-   Exercises.rst
-   ChapterAssessment.rst

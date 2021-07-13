@@ -14,6 +14,4 @@ Sequences
    ConcatenationandRepetition.rst
    CountandIndex.rst
    SplitandJoin.rst
-   Exercises.rst
-   week2a1.rst
    

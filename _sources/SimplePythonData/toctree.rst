@@ -21,6 +21,4 @@ Variables, Statements, and Expressions
    HardCoding.rst
    Input.rst
    Glossary.rst
-   Exercises.rst
-   week1a2.rst
    

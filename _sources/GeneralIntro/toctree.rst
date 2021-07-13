@@ -16,4 +16,3 @@ General Introduction
    WPToUnderstandaProgramChangeIt.rst
    Comments.rst
    Glossary.rst
-   Exercises.rst

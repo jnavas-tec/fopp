@@ -11,5 +11,3 @@ More About Iteration
    RandomlyWalkingTurtles.rst
    BreakandContinue.rst
    WPInfiniteLoops.rst
-   Exercises.rst
-   ChapterAssessment.rst

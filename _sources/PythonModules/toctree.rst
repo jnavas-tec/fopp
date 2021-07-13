@@ -9,6 +9,5 @@ Python Modules
    intro-ModulesandGettingHelp.rst
    Therandommodule.rst
    Glossary.rst
-   Exercises.rst
 ..   ChapterAssessment.rst
    

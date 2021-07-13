@@ -10,6 +10,4 @@ Inheritance
    OverrideMethods.rst
    InvokingSuperMethods.rst
    TamagotchiRevisited.rst
-   Exercises.rst
-   ChapterAssessment.rst
    chapterProject.rst

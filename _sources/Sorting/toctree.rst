@@ -12,5 +12,3 @@ Sorting
    SecondarySortOrder.rst
    WPWhenToUseLambdaVsFunction.rst
    Glossary.rst
-   Exercises.rst
-   ChapterAssessment.rst
