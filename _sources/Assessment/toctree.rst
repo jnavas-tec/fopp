@@ -5,26 +5,26 @@ Assessment
    :caption: Assessment
    :maxdepth: 4
 
-   GeneralIntro/toctree.rst
-   SimplePythonData/toctree.rst
-   Debugging/toctree.rst
-   PythonModules/toctree.rst
-   PythonTurtle/toctree.rst
-   Sequences/toctree.rst
-   Iteration/toctree.rst
-   Conditionals/toctree.rst
-   TransformingSequences/toctree.rst
-   Files/toctree.rst
-   Dictionaries/toctree.rst
-   Functions/toctree.rst
-   Tuples/toctree.rst
-   MoreAboutIteration/toctree.rst
+   GeneralIntroAssessment/toctree.rst
+   SimplePythonDataAssessment/toctree.rst
+   DebuggingAssessment/toctree.rst
+   PythonModulesAssessment/toctree.rst
+   PythonTurtleAssessment/toctree.rst
+   SequencesAssessment/toctree.rst
+   IterationAssessment/toctree.rst
+   ConditionalsAssessment/toctree.rst
+   TransformingSequencesAssessment/toctree.rst
+   FilesAssessment/toctree.rst
+   DictionariesAssessment/toctree.rst
+   FunctionsAssessment/toctree.rst
+   TuplesAssessment/toctree.rst
+   MoreAboutIterationAssessment/toctree.rst
    AdvancedFunctionsAssessment/toctree.rst
-   Sorting/toctree.rst
-   NestedData/toctree.rst
-   TestCases/toctree.rst
-   Exceptions/toctree.rst
-   Classes/toctree.rst
-   BuildingPrograms/toctree.rst
-   Inheritance/toctree.rst
+   SortingAssessment/toctree.rst
+   NestedDataAssessment/toctree.rst
+   TestCasesAssessment/toctree.rst
+   ExceptionsAssessment/toctree.rst
+   ClassesAssessment/toctree.rst
+   BuildingProgramsAssessment/toctree.rst
+   InheritanceAssessment/toctree.rst
    AdvancedAccumulationAssessment/toctree.rst
