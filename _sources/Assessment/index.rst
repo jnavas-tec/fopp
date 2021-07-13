@@ -1,5 +1,5 @@
 Index
-=====
+:::::
 
 .. toctree::
    :caption: Index
