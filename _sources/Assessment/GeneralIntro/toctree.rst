@@ -5,5 +5,4 @@ General Introduction
    :caption: General Introduction
    :maxdepth: 2
 
-   Glossary.rst
    Exercises.rst

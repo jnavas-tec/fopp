@@ -2,7 +2,7 @@ Assessment
 ::::::::::
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 0
 
    GeneralIntro/toctree.rst
    SimplePythonData/toctree.rst
