@@ -192,12 +192,12 @@ Table of Contents
     BuildingPrograms/toctree.rst
     Inheritance/toctree.rst
     AdvancedAccumulation/toctree.rst
+    Assessment/toctree.rst
    
 .. toctree::
     :hidden:
 
     Projects/toctree.rst
-    Assessment/toctree.rst
 
 Appendices
 ::::::::::
