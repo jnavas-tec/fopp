@@ -2,7 +2,6 @@ Assessment
 ::::::::::
 
 .. toctree::
-   :numbered:
    :maxdepth: 4
 
    GeneralIntro/toctree.rst
