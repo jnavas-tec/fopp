@@ -18,4 +18,5 @@ Files
    WritingCSVFiles.rst
    WPTipsHandlingFiles.rst
    Glossary.rst
+   Exercises.rst
    

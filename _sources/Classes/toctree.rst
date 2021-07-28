@@ -19,3 +19,4 @@ Defining your own Classes
    TestingClasses.rst
    Tamagotchi.rst
    Glossary.rst
+   Exercises.rst

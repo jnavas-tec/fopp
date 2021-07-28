@@ -18,4 +18,5 @@ Iteration
    GeneralizedSequences.rst
    WPKeepingTrackofYourIteratorVariableYourIterable.rst
    Glossary.rst
+   Exercises.rst
    

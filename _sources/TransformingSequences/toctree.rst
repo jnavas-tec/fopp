@@ -19,3 +19,4 @@ Transforming Sequences
    WPAccumulatorPatternStrategies.rst
    WPDontMutateAListYouIterateThrough.rst
    Glossary.rst
+   Exercises.rst

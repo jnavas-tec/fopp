@@ -14,4 +14,5 @@ Python Turtle
    SummaryOfTurtleMethods.rst
    WPIncrementalProgramming.rst
    WPCommonTurtleErrors.rst
+   Exercises.rst
    

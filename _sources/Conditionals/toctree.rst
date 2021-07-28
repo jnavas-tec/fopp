@@ -17,4 +17,5 @@ Conditionals
    TheAccumulatorPatternwithConditionals.rst
    WPSettingUpConditionals.rst
    Glossary.rst
+   Exercises.rst
    

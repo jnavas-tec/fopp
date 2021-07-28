@@ -10,3 +10,4 @@ Advanced Functions
    Anonymousfunctionswithlambdaexpressions.rst
    ProgrammingWithStyle.rst
    MethodInvocations.rst
+   Exercises.rst

@@ -11,3 +11,4 @@ Inheritance
    InvokingSuperMethods.rst
    TamagotchiRevisited.rst
    chapterProject.rst
+   Exercises.rst

@@ -21,4 +21,5 @@ Functions
    PassingMutableObjects.rst
    SideEffects.rst
    Glossary.rst
+   Exercises.rst
       
